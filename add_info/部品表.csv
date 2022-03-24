@@ -1,0 +1,29 @@
+Reference, Value, Footprint,説明
+C1,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C2,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C3,22p,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ22pF
+C4,22p,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ22pF
+C5,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C6,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C7,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C8,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C9,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C10,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ10uF
+C11,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ10uF
+C12,0.1u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ0.1uF
+C13,10u,Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップコンデンサ10uF
+D1,LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップLED赤色
+J1,USB_A,Connector_USB:USB_A_Stewart_SS-52100-001_Horizontal,USB Aコネクタ
+J2,USB_B,Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal,USB Bコネクタ
+J3,Conn_01x09,Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical,ピンソケット1×9
+J4,Conn_02x04_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Vertical,ピンヘッダ2×4
+J5,Conn_02x03_Odd_Even,Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical,ピンヘッダ2×3
+J6,Conn_01x09,Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Vertical,ピンソケット1×9
+R1,10k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗10kΩ
+R2,1k,Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder,チップ抵抗1kΩ
+SW1,SW_Push,0_kicad_wood:SW_TVAF06-A020B-R,表面実装スイッチ
+U1,CH340N,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,USBシリアル変換IC CH340
+U2,PIC32MX250F128B-ISP,Package_DIP:DIP-28_W7.62mm_Socket,ICソケット28ピン
+U3,NJM2845DL1-33,Package_TO_SOT_SMD:TO-252-2,3.3V3端子レギュレータ NJM2845DL1-33
+U4,PICkit3,Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Horizontal,L字ピンヘッダ1×6
+Y1,Crystal,Crystal:Crystal_HC49-U_Vertical,水晶振動子16MHz

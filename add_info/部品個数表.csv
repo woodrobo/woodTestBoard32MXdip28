@@ -1,0 +1,21 @@
+﻿部品名,価格,個数,合計,サイト,チップ部品セット,備考
+チップコンデンサ0.1uF,2.5,8,20,https://akizukidenshi.com/catalog/g/gP-13374/,〇,
+チップコンデンサ10uF,15,3,45,https://akizukidenshi.com/catalog/g/gP-13161/,〇,
+チップコンデンサ22pF,2.5,2,5,https://akizukidenshi.com/catalog/g/gP-13313/,〇,
+チップLED赤色,10,1,10,https://akizukidenshi.com/catalog/g/gI-03978/,〇,
+USB Aコネクタ,50,1,50,https://akizukidenshi.com/catalog/g/gC-11551/,,
+USB Bコネクタ,40,1,40,https://akizukidenshi.com/catalog/g/gC-07675/,,
+ピンソケット1×9,35,2,70,https://akizukidenshi.com/catalog/g/gC-10100/,,
+ピンヘッダ2×7(3+4で割ってください),20,1,20,https://akizukidenshi.com/catalog/g/gC-00166/,,多めに買うのがオススメ(https://akizukidenshi.com/catalog/g/gC-00082/)
+チップ抵抗1kΩ,0.2,1,0.2,https://akizukidenshi.com/catalog/g/gR-14122/,〇,代替品(https://akizukidenshi.com/catalog/g/gR-11790/)
+チップ抵抗10kΩ,0.2,1,0.2,https://akizukidenshi.com/catalog/g/gR-15029/,〇,代替品(https://akizukidenshi.com/catalog/g/gR-11791/)
+表面実装スイッチ,22,1,22,https://akizukidenshi.com/catalog/g/gP-14888/,,
+USBシリアル変換IC CH340,60,1,60,https://akizukidenshi.com/catalog/g/gI-16305/,,
+PIC32MX250F128B-I/SP,350,1,350,https://akizukidenshi.com/catalog/g/gI-07644/,,はんだづけしない
+ICソケット28ピン,20,1,20,https://akizukidenshi.com/catalog/g/gP-00013/,,代替品(https://akizukidenshi.com/catalog/g/gP-01339/)
+3.3V3端子レギュレータ NJM2845DL1-33,50,1,50,https://akizukidenshi.com/catalog/g/gI-11299/,,
+L字ピンヘッダ1×6,10,1,10,https://akizukidenshi.com/catalog/g/gC-05336/,,
+水晶振動子16MHz,30,1,30,https://akizukidenshi.com/catalog/g/gP-08671/,,
+,,合計,802.4,,,
+,,,,,,
+ジャンパピン,4,5,20,https://akizukidenshi.com/catalog/g/gP-03687/,,USB用ピンヘッダの設定にあると便利
