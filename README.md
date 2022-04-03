@@ -9,6 +9,16 @@ BOOTH(https://woodrobo.booth.pm/items/3751749)で販売しています。
 <img src="./add_info/board_omote.JPG" alt="実物(表)" width="300"/>
 <img src="./add_info/board_ura.JPG" alt="実物(裏)" width="300"/>  
 
+## USBピンヘッダについて  
+USBコネクタの近くに2つピンヘッダがついていると思います。これはUSB関連の接続をするためものです。単純な回路ですので詳細は回路図をご覧ください。  
+  
+USB B SELECT  
+USB Bコネクタ(パソコンと接続する時のコネクタ)のUSB通信線(D+,D-)の配線をすることができます。B-CH340で接続すればUSBシリアル変換ICを利用することができます。(ArduinoでいうSerial.printでパソコンに文字を表示できるようになる)B-PICで接続すれば下にあるPIC MCU USB TESTのDEVICE(B)に配線をつなげることができます。  
+  
+PIC MCU USB TEST  
+PICマイコンのUSB関連の配線をすることができます。PIC-DEVICE(B)で接続＆USB B SELECTでB-PICで接続すればPICをUSB Bコネクタに繋げられUSB DEVICE機能を試すことができます。PIC-HOST(A)で接続すればUSB Aコネクタに繋げられUSB HOST機能を試すことができます。  
+VBUS-5VはUSBモジュール使用の時に必要になることがあるので繋げておいてください。	  
+  
 # 部品について
 
 (はんだづけする際に見る)部品表や(部品を購入する際に見る)部品個数表はadd_infoフォルダを見てください。  
